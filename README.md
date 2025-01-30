@@ -3,7 +3,7 @@ Search the OpenTofu registry with alfred
 
 ## Installation
 
-1. Download the latest release [here](https://raw.githubusercontent.com/apollorion/opentofu-alfred/refs/heads/master/opentofu_alfred.alfredworkflow)
+1. Download the latest release [here](https://github.com/Apollorion/opentofu-alfred/raw/refs/heads/main/opentofu_alfred.alfredworkflow)
 2. Double Click and install into alfred.
 
 ## Usage
