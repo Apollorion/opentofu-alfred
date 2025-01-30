@@ -1,4 +1,7 @@
 // Most of this code is copied and modified from the OpenTofu Registry UI Repository
+// Mozilla Public License, version 2.0 as of Jan 30, 2025
+// Copyright (c) The OpenTofu Authors
+// Full License text and originals are included in opentofu_originals directory
 // https://github.com/opentofu/registry-ui/blob/main/frontend/src/components/Search/index.tsx
 
 // I used the Google Suggest workflow as a starting point, so some of the code is similar but modified.
